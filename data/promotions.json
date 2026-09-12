@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Semana Mary",
+        "mode": "Automática",
+        "code": "",
+        "discount_type": "Percentual",
+        "discount_value": 10,
+        "start_date": "2026-09-04",
+        "end_date": "2026-10-11",
+        "application": "Categoria",
+        "target_id": 1,
+        "status": "Ativa",
+        "used": false
+    },
+    {
+        "id": 2,
+        "name": "Cupom MARY20",
+        "mode": "Cupom",
+        "code": "MARY20",
+        "discount_type": "Percentual",
+        "discount_value": 20,
+        "start_date": "2026-09-10",
+        "end_date": "2026-10-11",
+        "application": "Geral",
+        "target_id": null,
+        "status": "Ativa",
+        "used": false
+    }
+]

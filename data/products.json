@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Vestido Floral",
+        "description": "Vestido floral confeccionado em tecido leve.",
+        "category_id": 1,
+        "supplier_id": 1,
+        "price": 129.9,
+        "size": "M",
+        "color": "Preto",
+        "stock": 20,
+        "image": "",
+        "status": "Ativo"
+    },
+    {
+        "id": 2,
+        "name": "Vestido Midi",
+        "description": "Vestido midi elegante para eventos.",
+        "category_id": 1,
+        "supplier_id": 2,
+        "price": 159.9,
+        "size": "G",
+        "color": "Vinho",
+        "stock": 8,
+        "image": "",
+        "status": "Ativo"
+    },
+    {
+        "id": 3,
+        "name": "Blusa Básica",
+        "description": "Blusa confortável para o dia a dia.",
+        "category_id": 2,
+        "supplier_id": 1,
+        "price": 69.9,
+        "size": "P",
+        "color": "Branco",
+        "stock": 35,
+        "image": "",
+        "status": "Ativo"
+    },
+    {
+        "id": 4,
+        "name": "Bolsa Urbana",
+        "description": "Bolsa compacta para uso diário.",
+        "category_id": 3,
+        "supplier_id": 2,
+        "price": 99.9,
+        "size": "Único",
+        "color": "Caramelo",
+        "stock": 12,
+        "image": "",
+        "status": "Ativo"
+    }
+]

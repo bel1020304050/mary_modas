@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Vestidos",
+        "description": "Vestidos casuais e sociais",
+        "status": "Ativo"
+    },
+    {
+        "id": 2,
+        "name": "Blusas",
+        "description": "Blusas e camisetas",
+        "status": "Ativo"
+    },
+    {
+        "id": 3,
+        "name": "Acessórios",
+        "description": "Bolsas e acessórios",
+        "status": "Ativo"
+    }
+]

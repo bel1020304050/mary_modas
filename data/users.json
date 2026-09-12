@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Administrador Mary",
+        "email": "admin@marymodas.local",
+        "phone": "(44) 99999-0000",
+        "password_hash": "$2y$12$f.tmmmgHFU2gByMjhB55J.iSTQCinpjOXx8isqEuA1U.RF.WzA8ye",
+        "profile": "Administrador",
+        "status": "Ativo",
+        "cep": "87500-000",
+        "street": "Avenida Brasil",
+        "number": "120",
+        "created_at": "2026-09-11 18:18:45"
+    },
+    {
+        "id": 2,
+        "name": "Ana Cliente",
+        "email": "cliente@marymodas.local",
+        "phone": "(44) 98888-1111",
+        "password_hash": "$2y$12$1anlNyDSZu5wUo3WBWO6t.ID3PuJA5AHVZR9\/dQKKBhaTJXYQmNRy",
+        "profile": "Cliente",
+        "status": "Ativo",
+        "cep": "87500-100",
+        "street": "Rua das Flores",
+        "number": "45",
+        "created_at": "2026-09-11 18:18:45"
+    }
+]
